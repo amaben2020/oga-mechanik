@@ -3,9 +3,9 @@
 export default $config({
   app(input) {
     return {
-      name: "oga-mechanic",
-      removal: input?.stage === "production" ? "retain" : "remove",
-      home: "aws",
+      name: 'oga mechanic',
+      removal: input?.stage === 'production' ? 'retain' : 'remove',
+      home: 'aws',
     };
   },
   async run() {},
