@@ -5,4 +5,4 @@ The mechanics in a shop could be assigned a job as long as they are in the shop 
 
 
 Tech Stack:
-SST, Open-api, Drizzle ORM, Aurora V2 and PostgreSQL, Typescript, Vitest
+SST, Open-api, Drizzle ORM, Aurora V2 and PostgreSQL, Typescript, Vitest, Seed, Github, Twilio, RingCentral, AWS Cognito
